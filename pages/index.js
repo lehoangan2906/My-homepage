@@ -6,7 +6,7 @@ import Layout from '../components/layouts/article'
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import { BioSection, BioYear } from '../components/bio'
 import { GridItem } from '../components/grid-item'
-import { IoLogoTwitter, IoLogoInstagram, IoLogoFacebook, IoLogoGithub} from 'react-icons/io5'
+import { IoLogoTwitter, IoLogoInstagram, IoLogoFacebook, IoLogoGithub, IoLogoLinkedin} from 'react-icons/io5'
 import {SiCodewars} from 'react-icons/si'
 
 const Page = () => {
