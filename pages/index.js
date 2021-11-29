@@ -106,6 +106,11 @@ const Page = () => {
 						<Button variant="ghost" colorScheme="teal" leftIcon = {<Icon as = {IoLogoInstagram}/>}>@_lehoangan</Button>
 					</Link>
 				</ListItem>
+				<ListItem>
+					<Link href = "hhttps://www.linkedin.com/in/edward-hoang-31bb34220/" target = "_blank">
+						<Button variant="ghost" colorScheme="teal" leftIcon = {<Icon as = {IoLogoLinkedin}/>}>@Edward_Hoang</Button>
+					</Link>
+				</ListItem>
 			</List>
 		</Section>
     </Container>
