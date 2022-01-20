@@ -22,7 +22,7 @@ const Page = () => {
 				<Heading as = "h2" variant = "page-title">
 					Edward (An Le) Hoang
 				</Heading>
-					<p>Someone who loves coding ( Researcher / Learner ) </p>
+					<p>Someone who loves tweaking computers ( Researcher / Learner ) </p>
 			</Box>
 			<Box flexShrink ={0} mt = {{base: 4, md: 0}} ml = {{md: 6}} align = "center">
 				<Image borderColor = "whiteAlpha.800" 
