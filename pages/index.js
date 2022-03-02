@@ -22,7 +22,7 @@ const Page = () => {
 				<Heading as = "h2" variant = "page-title">
 					Edward (An Le) Hoang
 				</Heading>
-					<p>Someone who loves tech( Researcher / Learner ) </p>
+					<p>Someone who loves all things tech ( Learner / Researcher ) </p>
 			</Box>
 			<Box flexShrink ={0} mt = {{base: 4, md: 0}} ml = {{md: 6}} align = "center">
 				<Image borderColor = "whiteAlpha.800" 
@@ -41,7 +41,7 @@ const Page = () => {
 			<Heading as = "h3" variant = "section-title">
 				Work 
 			</Heading>
-			<Paragraph>I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning. I am also a competitive programmer who is always curious about data structures and algorithms</Paragraph>
+			<Paragraph>I'm a sophomore and studying for a bachelor's degree in Artificial Intelligence from FPT University. My skills are broad in Python, C++, Java, Data Science and Artificial Intelligence. I am particularly interested in Natural Language Processing and Reinforcement Learning. I am also a competitive programmer who is always curious about data structures and algorithms.</Paragraph>
 			<Box align = "center" my = {4}>
 				<NextLink href = "/works">
 					<Button rightIcon = {<ChevronRightIcon />} colorScheme = "teal">
