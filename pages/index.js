@@ -60,12 +60,28 @@ const Page = () => {
 				Born in Thanh Hoa (province), Vietnam.
 			</BioSection>
 			<BioSection>
+				<BioYear>2017</BioYear>
+				Student, LeLoi highschool
+			</BioSection>
+			<BioSection>
+				<BioYear>2019</BioYear>
+				Aministrator, Toanmath.com
+			</BioSection>
+			<BioSection>
+				<BioYear>2020</BioYear>
+				Administrator, Toan nhan biet thong hieu
+			</BioSection>
+			<BioSection>
 				<BioYear>2020</BioYear>
 				Graduated from Le Loi highschool
 			</BioSection>
 			<BioSection>
 				<BioYear>2020</BioYear>
 				Student, Bachelor of Artificial Intelligence at FPT university (class of 2024)
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				Contestant, ACM ICPC Vietnam National 2021
 			</BioSection>
 		</Section>
 
@@ -74,7 +90,7 @@ const Page = () => {
 				My hobbies
 			</Heading>
 			<Paragraph>
-				Solving rubik, Playing plastic model, Photograph, {' '}
+				Solving rubik, Competitive coding, Photograph, {' '}
 				<Link href = "https://www.codewars.com/users/lehoangan2906">
 					Coding
 				</Link>
