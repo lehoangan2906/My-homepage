@@ -83,6 +83,13 @@ const Page = () => {
 				<BioYear>2022</BioYear>
 				Contestant, ACM ICPC Vietnam National 2021
 			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				Volunteerer, 
+				<Link href = "https://vnoi.info/">
+					VNOI
+				</Link>
+			</BioSection>
 		</Section>
 
 		<Section delay = {0.3}>
