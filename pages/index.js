@@ -85,7 +85,7 @@ const Page = () => {
 			</BioSection>
 			<BioSection>
 				<BioYear>2022</BioYear>
-				Volunteerer,{' '}
+				Volunteer,{' '}
 				<Link href = "https://vnoi.info/">
 					VNOI
 				</Link>
