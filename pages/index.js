@@ -57,7 +57,7 @@ const Page = () => {
 			</Heading>
 			<BioSection>
 				<BioYear>2002</BioYear>
-				Born in Thanh Hoa (province), Vietnam.
+				Borned, Thanh Hoa (province), Vietnam.
 			</BioSection>
 			<BioSection>
 				<BioYear>2017</BioYear>
@@ -82,6 +82,22 @@ const Page = () => {
 			<BioSection>
 				<BioYear>2022</BioYear>
 				Contestant, ACM ICPC Vietnam National 2021
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				researcher, FPT SAP Laboratory
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				administrator, Code mely
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				Volunteer, Bedao contest
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				Contestant, FPTU Hackathon 2022
 			</BioSection>
 			<BioSection>
 				<BioYear>2022</BioYear>
