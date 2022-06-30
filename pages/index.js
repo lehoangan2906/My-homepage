@@ -85,26 +85,35 @@ const Page = () => {
 			</BioSection>
 			<BioSection>
 				<BioYear>2022</BioYear>
-				researcher, FPT SAP Laboratory
-			</BioSection>
-			<BioSection>
-				<BioYear>2022</BioYear>
-				administrator, Code mely
-			</BioSection>
-			<BioSection>
-				<BioYear>2022</BioYear>
-				Volunteer, Bedao contest
-			</BioSection>
-			<BioSection>
-				<BioYear>2022</BioYear>
-				Contestant, FPTU Hackathon 2022
-			</BioSection>
-			<BioSection>
-				<BioYear>2022</BioYear>
 				Volunteer,{' '}
 				<Link href = "https://vnoi.info/">
 					VNOI
 				</Link>
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				researcher,{' '}
+				<Link href = "https://www.facebook.com/fptunilab">
+					FPT SAP Laboratory
+				</Link>
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				administrator,{' '}
+				<Link href = "https://www.facebook.com/code.mely">
+					Code mely
+				</Link>
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				Volunteer,{' '}
+				<Link href = "https://bedaoteam.github.io/?fbclid=IwAR3_jWcy1xcbmJBhcVjYYEYnMOAjbbSVxYU1Es0d-Qpbq2WM6W9qMwnrL80">
+					Bedao contest
+				</Link>
+			</BioSection>
+			<BioSection>
+				<BioYear>2022</BioYear>
+				Contestant, FPTU Hackathon 2022
 			</BioSection>
 		</Section>
 
